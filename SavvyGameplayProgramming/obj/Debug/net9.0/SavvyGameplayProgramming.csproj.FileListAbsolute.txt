@@ -1,0 +1,15 @@
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\bin\Debug\net9.0\SavvyGameplayProgramming.exe
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\bin\Debug\net9.0\SavvyGameplayProgramming.deps.json
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\bin\Debug\net9.0\SavvyGameplayProgramming.runtimeconfig.json
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\bin\Debug\net9.0\SavvyGameplayProgramming.dll
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\bin\Debug\net9.0\SavvyGameplayProgramming.pdb
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.AssemblyInfoInputs.cache
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.AssemblyInfo.cs
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.csproj.CoreCompileInputs.cache
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.sourcelink.json
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.dll
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\refint\SavvyGameplayProgramming.dll
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.pdb
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\SavvyGameplayProgramming.genruntimeconfig.cache
+C:\Users\azooz\Documents\Savvy-GameplayProgramming\SavvyGameplayProgramming\obj\Debug\net9.0\ref\SavvyGameplayProgramming.dll
