@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SavvyGameplayProgramming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a1cd1a5ea7ec9900321e66ce77fb18287075642")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4283df1a4ecaa185402db6b9b1466225ac25d25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SavvyGameplayProgramming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SavvyGameplayProgramming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
